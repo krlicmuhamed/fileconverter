@@ -1,0 +1,20 @@
+{
+  "name": "fileconverter",
+  "version": "1.0.0",
+  "description": "Convert any file to base64.",
+  "type": "module",
+  "main": "converter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console",
+    "tool"
+  ],
+  "author": "Muhamed",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "file-base64": "^1.0.0"
+  }
+}
